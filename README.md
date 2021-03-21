@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pete
-- 👀 I’m interested in Python, SQL, and The Simpsons.
+- 👀 I’m interested in Python, SQL, and Information Security.
 - 🌱 I’m currently learning Object Oriented Programming and Machine Learning.
