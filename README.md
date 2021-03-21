@@ -1,4 +1,4 @@
 - Hi, I’m Pete
-- I’m interested in Python, SQL, and Information Security.
+- I’m interested in Python, SQL, and Linux.
 - I’m currently learning Object Oriented Programming and Machine Learning.
 - Enjoy this video: https://www.youtube.com/watch?v=4jXEuIHY9ic
