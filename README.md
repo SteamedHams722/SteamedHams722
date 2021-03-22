@@ -1,4 +1,3 @@
 - Hi, I’m Pete
 - I’m interested in Python, SQL, and Linux.
 - I’m currently learning Object Oriented Programming and Machine Learning.
-- Have a laugh: https://www.youtube.com/watch?v=4jXEuIHY9ic
