@@ -1,3 +1,3 @@
 - Hi, I’m Pete
 - I’m interested in Python, SQL, and Linux.
-- I’m currently learning Object Oriented Programming and Machine Learning.
+- I’m currently learning Web Development (Django), Oauth2.0, and Machine Learning.
